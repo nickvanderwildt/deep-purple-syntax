@@ -1,7 +1,7 @@
 {
   "name": "deep-purple-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A theme inspired by the Chester Atom theme, but with higher contrast colors.",
   "keywords": [
     "syntax",
