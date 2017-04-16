@@ -7,7 +7,11 @@
     "syntax",
     "theme",
     "colourful",
-    "toylike"
+    "toylike",
+    "purple",
+    "dark",
+    "Deep purple",
+    "deep-purple"
   ],
   "repository": "https://github.com/nickvanderwildt/deep-purple-syntax",
   "license": "MIT",
