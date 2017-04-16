@@ -1,0 +1,17 @@
+{
+  "name": "deep-purple-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A theme inspired by the Chester Atom theme, but with higher contrast colors.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "colourful",
+    "toylike"
+  ],
+  "repository": "https://github.com/atom/deep-purple-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
