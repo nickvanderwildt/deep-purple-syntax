@@ -16,8 +16,10 @@ atom-text-editor {
     color: @syntax-invisible-character-color;
   }
 
-  .line.highlight-line {
-    background: @syntax-selection-color;
+  .line {
+    &.cursor-line  {
+      background: @syntax-gutter-background-color-selected;
+    }
   }
 
   .gutter {
