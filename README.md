@@ -2,7 +2,7 @@
 
 A syntax theme inspired by the chester-atom-theme. I prefer it with slightly more higher contrast colors, but loved the basics of the chester theme! Hope you enjoy it!
 
-![Deep purple syntax theme](screenshot.png)
+![Deep purple syntax theme](https://raw.githubusercontent.com/nickvanderwildt/deep-purple-syntax/master/screenshot.png)
 
 # recommended setup with this theme
 - "File icons" package, non-colored
